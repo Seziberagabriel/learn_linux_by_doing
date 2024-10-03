@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Task Summary
 
 ## Team Contributions
